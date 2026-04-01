@@ -1,6 +1,6 @@
 import pytest
 from typing import Optional, Union
-from typed import Typed
+from typify.typed import Typed
 
 class PlainSimple(Typed):
     name: str

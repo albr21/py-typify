@@ -1,14 +1,8 @@
-import sys
-import os
-
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "typify"))
-
-
 from dataclasses import dataclass
 from typing import Any, Optional, Union
 
-from typed import Typed
-from typed_meta import TypedMeta
+from typify.typed import Typed
+from typify.typed_meta import TypedMeta
 
 # =============================================================================
 # Typed fixtures

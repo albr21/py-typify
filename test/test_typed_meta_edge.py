@@ -2,7 +2,7 @@ import pytest
 from conftest import (
     SimpleService, NoHintsService, NonCallableAttrService
 )
-from typed_meta import TypedMeta
+from typify.typed_meta import TypedMeta
 
 class TestTypedMetaPrivateSkipped:
     def test_meta_private_not_typechecked(self):

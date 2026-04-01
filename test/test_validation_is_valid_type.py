@@ -1,6 +1,6 @@
 import pytest
 from typing import Any, Optional, Union
-from validation import is_valid_type
+from typify.validation import is_valid_type
 
 class TestTypedIsValidTypeSimple:
     @pytest.mark.parametrize("value,expected", [

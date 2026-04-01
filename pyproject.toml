@@ -1,0 +1,10 @@
+[project]
+name = "typify"
+version = "1.0.0"
+description = "A Python module for runtime type checking based on type annotations."
+authors = [{ name = "albr21" }]
+dependencies = []
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"

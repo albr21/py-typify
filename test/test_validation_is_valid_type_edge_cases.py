@@ -1,8 +1,8 @@
 from dataclasses import dataclass
 from collections import deque
 from typing import Deque
-from typed import Typed
-from validation import is_valid_type
+from typify.typed import Typed
+from typify.validation import is_valid_type
 from conftest import WithList
 
 class TestTypedEdgeCases:

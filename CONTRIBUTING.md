@@ -21,6 +21,7 @@ Thanks for considering contributing to **py-typify**! Here’s how you can help:
 
 ## Development Environment
 - Use Python 3.8 or higher
+- Set up a virtual environment for development with `python -m venv venv`
 - Install dependencies with `pip install -r requirements-dev.txt`
 
 ## File Architecture

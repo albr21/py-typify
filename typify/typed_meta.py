@@ -1,5 +1,5 @@
 from typing import get_type_hints
-from validation import is_valid_type
+from .validation import is_valid_type
 import functools
 import inspect
 
