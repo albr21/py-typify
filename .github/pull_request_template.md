@@ -18,3 +18,6 @@
 - [ ] I have updated the manifest.yaml to include my changes
 - [ ] I have tested my changes
 - [ ] I have added tests for new features or bug fixes
+
+## Additional Notes
+<!-- Any additional information that is important to this pull request. -->

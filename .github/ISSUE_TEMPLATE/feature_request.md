@@ -1,3 +1,11 @@
+---
+name: Feature Request
+about: Suggest an idea for this project
+title: ''
+labels: <label>
+assignees: ''
+---
+
 # Feature Request Template
 
 ## Description

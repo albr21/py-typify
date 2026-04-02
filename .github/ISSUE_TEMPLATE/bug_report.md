@@ -1,7 +1,15 @@
+---
+name: Bug Report
+about: Create a report to help us improve
+title: ''
+labels: <label>
+assignees: ''
+---
+
 # Bug Report Template
 
 ## Description
-<!-- Describe the issue you're experiencing. -->
+<!-- A clear and concise description of what the bug is. -->
 
 ## Steps to Reproduce
 1. Step 1
@@ -15,9 +23,7 @@
 <!-- What happens instead? -->
 
 ## Environment
-- Python version: 
-- OS: 
-- py-logging version: 
+<!-- Include as many relevant details about the environment you experienced the bug in. -->
 
 ## Additional Context
 <!-- Any other details that might help diagnose the issue. -->
